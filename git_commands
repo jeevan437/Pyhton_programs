@@ -1,0 +1,65 @@
+create a new repository on the command line:
+-------------------------------------------
+
+git init    : Initiliase the empty folder into git folder
+git add     : Add a new file
+# The added file wil go to staging area
+git commit  : Record changes to the repository
+ex : git commit --amend -m "an updated commit message"
+
+To add the local repo to a git repo
+git remote add origin https://github.com/jeevan437/sample.git
+
+git push -u origin master
+
+push an existing repository from the command line
+-------------------------------------------------
+git remote add origin https://github.com/jeevan437/sample.git
+git push -u origin master
+
+
+Clone an exiting repository into local machine:
+----------------------------------------------
+git clone <url>
+git pull <url>
+
+git push
+
+------------------------------------------------
+
+git branch  :
+git branch <new branch>
+git branch checkout <branch_name>
+---------------------------------
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+
+git config --list --show-origin
+git config --list
+----------------------------
+git stash   : Save your local changes into a buffer
+
+git pull
+ ...
+file foobar not up to date, cannot merge.
+git stash
+git pull
+git stash pop
+--------------------------------
+git fetch : Update your local repo from the remote (but don't merge):
+git fetch is the command that says "bring my local copy of the remote repository up to date."
+
+git pull says "bring the changes in the remote repository to where I keep my own code."
+
+
+            --->git fetch                   ---> git merge
+Remote repository------->   Local repository  ----->    working copy
+
+
+               <---     git Pull      --->
+
+
+git pull --rebase
+Before pushing your new commits to server,  it will automatically sync latest
+server changes (with a fetch + merge) and will place your commit at the top in git log.
+No need to worry about manual pull/merge.
