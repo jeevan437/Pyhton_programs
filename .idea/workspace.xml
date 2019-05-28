@@ -21,103 +21,51 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="employee" value="1" />
           <entry key="git_commands" value="1" />
           <entry key="py" value="7" />
+          <entry key="pyi" value="1" />
+          <entry key="sample" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="PLAIN_TEXT" value="3" />
           <entry key="Python" value="7" />
+          <entry key="PythonStub" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="employee" value="15" />
           <entry key="git_commands" value="898" />
-          <entry key="py" value="1429" />
+          <entry key="py" value="1890" />
+          <entry key="pyi" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="898" />
-          <entry key="Python" value="1429" />
+          <entry key="PLAIN_TEXT" value="913" />
+          <entry key="Python" value="1890" />
+          <entry key="PythonStub" value="41" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flattern_list.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/comprehensions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="58" selection-start-line="8" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/map_filter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="729">
-              <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
-              <folding>
-                <marker date="1558578910032" expanded="true" signature="167:172" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zip_func.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scope_of_variable.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="722">
-              <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
-              <folding>
-                <marker date="1559005313186" expanded="true" signature="98:103" ph="..." />
-                <marker date="1559005313186" expanded="true" signature="163:168" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pack's_modules/module.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-              <folding>
-                <marker date="1559005606705" expanded="true" signature="13:18" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pack's_modules/acessing_module.py">
+        <entry file="file://$PROJECT_DIR$/files/files_read_write_append.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+            <state relative-caret-position="207">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/files/sample">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -126,6 +74,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Python Stub" />
       </list>
     </option>
   </component>
@@ -143,6 +92,9 @@
         <option value="$PROJECT_DIR$/scope_of_variable.py" />
         <option value="$PROJECT_DIR$/pack's_modules/module.py" />
         <option value="$PROJECT_DIR$/pack's_modules/acessing_module.py" />
+        <option value="$PROJECT_DIR$/files/employee" />
+        <option value="$PROJECT_DIR$/files/files_read_write_append.pyi" />
+        <option value="$PROJECT_DIR$/files/files_read_write_append.py" />
       </list>
     </option>
   </component>
@@ -171,6 +123,11 @@
             <path>
               <item name="Python_programs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_programs" type="462c0819:PsiDirectoryNode" />
+              <item name="files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_programs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_programs" type="462c0819:PsiDirectoryNode" />
               <item name="pack's_modules" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -194,7 +151,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.acessing_module">
+  <component name="RunManager" selected="Python.files_read_write_append">
     <configuration name="acessing_module" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -216,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="comprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="files_read_write_append" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -224,11 +181,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/files" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comprehensions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files/files_read_write_append.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -301,19 +258,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.comprehensions" />
       <item itemvalue="Python.map_filter" />
       <item itemvalue="Python.zip_func" />
       <item itemvalue="Python.scope_of_variable" />
       <item itemvalue="Python.acessing_module" />
+      <item itemvalue="Python.files_read_write_append" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.files_read_write_append" />
         <item itemvalue="Python.acessing_module" />
         <item itemvalue="Python.scope_of_variable" />
         <item itemvalue="Python.zip_func" />
         <item itemvalue="Python.map_filter" />
-        <item itemvalue="Python.comprehensions" />
       </list>
     </recent_temporary>
   </component>
@@ -334,12 +291,12 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12276786" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12276786" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.400982" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.400982" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -419,7 +376,24 @@
     <entry file="file://$PROJECT_DIR$/pack's_modules/acessing_module.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/employee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/sample">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/files_read_write_append.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
