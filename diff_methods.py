@@ -1,5 +1,5 @@
 class Methods:
-
+    
     def __init__(self):
         print("init method")
 
