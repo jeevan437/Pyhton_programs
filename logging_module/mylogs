@@ -1,7 +1,7 @@
-2019-06-14 06:53:13,168-__name__-INFO-information messsage
-2019-06-14 06:53:13,225-__name__-DEBUG-debug message
-2019-06-14 06:53:13,225-__name__-CRITICAL-critical message
-2019-06-14 06:53:13,226-__name__-WARNING-warning message
-2019-06-14 06:53:13,226-__name__-ERROR-exception message
+2019-06-14 06:57:31,573-INFO-information messsage
+2019-06-14 06:57:31,573-DEBUG-debug message
+2019-06-14 06:57:31,573-CRITICAL-critical message
+2019-06-14 06:57:31,573-WARNING-warning message
+2019-06-14 06:57:31,573-ERROR-exception message
 NoneType: None
-2019-06-14 06:53:13,227-__name__-ERROR-error message
+2019-06-14 06:57:31,573-ERROR-error message
