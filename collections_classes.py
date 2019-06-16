@@ -23,17 +23,27 @@
 # # #     print(i)
 
 from collections import defaultdict
-#
+
 # s = 'mississippi'
 # d = defaultdict(int)
 # for i in s:
 #     d[i] +=1
 #
 # print(d.items())
-s = [('yellow', 1), ('blue', 2), ('yellow', 3), ('blue', 4), ('red', 1)]
+# s = [('yellow', 1), ('blue', 2), ('yellow', 3), ('blue', 4), ('red', 1)]
+#
+# d = defaultdict(list)
+# for k,v in s:
+#     d[k].append(v)
 
-d = defaultdict(list)
-for k,v in s:
-    d[k].append(v)
+# print(d.items())
 
-print(d.items())
+
+s = "jeevan kumar"
+m = s.split()
+d = defaultdict(int)
+
+for i in m:
+    d[i] +=1
+
+print(d)
